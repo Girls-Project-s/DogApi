@@ -1,0 +1,9 @@
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:'Quicksand', sans-serif;
+    height:100vh;
+    margin:0;
+    background-color: #fff;
+}
