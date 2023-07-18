@@ -7,9 +7,12 @@ body{
     height:100vh;
     margin:0;
     background-color: #fff;
-
+}
 img{
     max-width:600px;
     border-radius:30px;
 
+}
+main{
+    text-align:center;
 }
