@@ -1,4 +1,6 @@
-
+*{
+    background-image:url("https://img.freepik.com/free-photo/brick-wall-painted-white_1194-7526.jpg?w=2000")
+}
 body{
     display:flex;
     align-items:center;
@@ -8,6 +10,10 @@ body{
     margin:0;
     background-color: #fff;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> ba0737628afea68ee4168b3605fe94d68b9a78f3
 img{
     max-width:600px;
     border-radius:30px;
