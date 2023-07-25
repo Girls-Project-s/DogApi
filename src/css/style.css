@@ -14,3 +14,20 @@ img{
     border-radius:30px;
 
 }
+
+button{
+    background: #192a56;
+    border: 0;
+    border-radius:4px;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
+
+.results {
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
