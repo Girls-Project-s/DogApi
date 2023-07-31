@@ -1,4 +1,17 @@
 
+.botão{
+    border: (0);
+    font: size 1.2em;
+    font-weight:500;
+    padding: 16px;
+    background:rgb(155, 49, 241);
+    color:black;
+    margin: (20px, 0);
+    cursor: pointer;
+    transition:all(0.5s, ease-in-out);
+}
+
+
 body{
     display:flex;
     align-items:center;
@@ -32,3 +45,4 @@ button{
     justify-content: center ;
     align-items: center;
 }
+
