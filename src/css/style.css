@@ -1,3 +1,4 @@
+
 .botão{
     border: (0);
     font: size 1.2em;
@@ -9,3 +10,39 @@
     cursor: pointer;
     transition:all(0.5s, ease-in-out);
 }
+
+
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:'Quicksand', sans-serif;
+    height:100vh;
+    margin:0;
+    background-color: #fff;
+}
+
+img{
+    max-width:600px;
+    border-radius:30px;
+
+}
+
+
+button{
+    background: #192a56;
+    border: 0;
+    border-radius:4px;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
+
+.results {
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
