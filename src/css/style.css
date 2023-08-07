@@ -1,4 +1,22 @@
 
+*{
+    background-image:url("https://img.freepik.com/free-photo/brick-wall-painted-white_1194-7526.jpg?w=2000")
+}
+
+.botão{
+    border: (0);
+    font: size 1.2em;
+    font-weight:500;
+    padding: 16px;
+    background:rgb(155, 49, 241);
+    color:black;
+    margin: (20px, 0);
+    cursor: pointer;
+    transition:all(0.5s, ease-in-out);
+}
+
+
+
 body{
     display:flex;
     align-items:center;
@@ -14,6 +32,12 @@ img{
     border-radius:30px;
 
 }
+
+main{
+    text-align:center;
+}
+
+
 
 button{
     background: #192a56;
@@ -42,5 +66,4 @@ button{
     margin: 10px;
     height:400px;
     width:300px;
-
 }
